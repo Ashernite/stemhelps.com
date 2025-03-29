@@ -32,7 +32,7 @@
 }
 .topics {
   display: grid;
-    
+  margin-left: 60px;
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
