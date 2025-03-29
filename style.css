@@ -31,14 +31,7 @@
   padding: 0px 10px;
 }
 .topics {
-  display: inline-block;
-  left:100px;
-  top:50px;
-  width:50px;
-  length:50px;
-  text-align: center;
-  background-color: gray;
-  color: white;
+  display: grid;
     
 }
 
