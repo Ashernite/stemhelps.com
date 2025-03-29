@@ -32,6 +32,8 @@
 }
 .topics {
   display: inline-block;
+  left:100px;
+  top:50px;
   width:50px;
   length:50px;
   text-align: center;
