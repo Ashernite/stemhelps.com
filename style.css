@@ -34,6 +34,10 @@
   display: inline-block;
   width:50px;
   length:50px;
+  text-align: center;
+  background-color: gray;
+  color: white;
+    
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
