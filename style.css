@@ -31,8 +31,9 @@
   padding: 0px 10px;
 }
 .topics {
-  background-color: gray;
-  margin: 50px;
+  display: inline-block;
+  width:50px;
+  length:50px;
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
