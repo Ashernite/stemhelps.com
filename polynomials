@@ -1,0 +1,20 @@
+<html>
+  <head>
+   <title>Stem Helps</title>
+   <link rel="stylesheet" href="style.css">
+  </head>
+
+ <body>
+  <div class="sidenav">
+    <a href="#">Home</a>
+    <a href="about">About</a>
+    <a href="contact">Contact</a>
+   </div>
+  <div>
+   <h1>Polynomials</h1>
+  </div>
+
+ </body>
+
+
+</html>
