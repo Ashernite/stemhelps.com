@@ -39,8 +39,9 @@
 }
 .topicsi {
   background-color: PowderBlue;
-  width:70px;
-  height: 40px;
+  width:140px;
+  height:60px;
+  font-size:250%;
   color: white;
   padding: 20px;
   text-align: center;
