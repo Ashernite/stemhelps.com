@@ -34,7 +34,8 @@
   display: grid;
   grid-template-columns: repeat(3,1fr);
   margin-left: 160px;
-  width: calc(100%-250px)
+  gap: 20px;
+  padding: 20px;
 }
 .topicsi {
   background-color: #4CAF50;
