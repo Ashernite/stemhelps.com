@@ -47,10 +47,12 @@ a {
 }
 .topicsi {
   background-color: PowderBlue;
+  text-decoration: none;
+  color: #818181;
+  display: block;
   width:140px;
   height:60px;
   font-size:250%;
-  color: white;
   padding: 20px;
   text-align: center;
   border-radius: 8px;
