@@ -35,7 +35,7 @@
   grid-template-columns: repeat(3,1fr);
   margin-left: 60px;
 }
-.topics a {
+.topicsi {
   background-color: #4CAF50;
   color: white;
   padding: 20px;
