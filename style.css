@@ -62,6 +62,30 @@ a {
   color: #909090;
 }
 
+.units {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  margin-left: 160px;
+  gap: 20px;
+  padding: 20px;
+}
+.units a {
+  background-color: PowderBlue;
+  text-decoration: none;
+  color: #6e6e6e;
+  display: block;
+  width:250px;
+  height:64px;
+  font-size:250%;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.units a:hover {
+  color: #909090;
+}
+
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
