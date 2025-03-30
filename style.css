@@ -48,7 +48,7 @@ a {
 .topics a {
   background-color: PowderBlue;
   text-decoration: none;
-  color: #818181;
+  color: #6e6e6e;
   display: block;
   width:140px;
   height:60px;
@@ -59,7 +59,7 @@ a {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .topics a:hover {
-  color: #f1f1f1;
+  color: #909090;
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
