@@ -39,6 +39,8 @@
 }
 .topicsi {
   background-color: #4CAF50;
+  width:70px;
+  height: 70px;
   color: white;
   padding: 20px;
   text-align: center;
