@@ -87,6 +87,7 @@ a {
 }
 .links {
   right: 25px;
+  up: 25px;
   a.solid {border-style: solid;}
 }
 
