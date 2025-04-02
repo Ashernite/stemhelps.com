@@ -87,8 +87,12 @@ a {
 }
 .links {
   right: 25px;
-  up: 25px;
+  top: 25px;
   a.solid {border-style: solid;}
+}
+.links a {
+  right: 25px;
+  top: 25px;
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
